@@ -16,3 +16,4 @@ else:
 print('Loc dep trai vai dai')
 print('You have my word...')
 print('You have my word...')
+print("Dao Le Tan Loc")
